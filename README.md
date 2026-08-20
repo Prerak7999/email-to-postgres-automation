@@ -36,6 +36,8 @@ The final result — sales data automatically appended into the `sales_data` tab
 
 ![Supabase Output](02_supabase_output.png)
 
+📄 [View the final result — all 30 rows after the automation ran](sales_data_rows_final_result.csv)
+
 ---
 
 ## 🛠️ Tech Stack
